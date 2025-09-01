@@ -1,6 +1,6 @@
 body {
    width: 320px;
-   margin: 50% auto;
+   margin: 15% auto;
    background-color: hsl(212, 45%, 89%);
 }
 
@@ -38,7 +38,7 @@ body {
     text-align: center;
     font-family: Outfit Bold;
     font-size: 22px;
-    font-weight: 700px;
+    font-weight: 400;
 }
 
 .text2 {
@@ -46,7 +46,7 @@ body {
     text-align: center;
     font-family: Outfit;
     font-size: 15px;
-    font-weight: 400px;
+    font-weight: 400;
 }
 
 .attribution { 
